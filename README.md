@@ -1,0 +1,1 @@
+Just enter the url of the youtube video which you want to download.After that a prompt opens up in which you have to specify the directory which you want to store the file and thats all.The video will be downloaded in the highest quality 
